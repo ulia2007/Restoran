@@ -36,6 +36,10 @@ a {
   padding: 39px 0 39px 80px;
 }
 
+.block-header .block-header__img img {
+  width: 100%;
+}
+
 .block-header .block-header__ul li {
   display: inline-block;
   padding-left: 31px;

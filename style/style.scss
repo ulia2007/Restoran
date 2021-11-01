@@ -30,7 +30,11 @@ a{
     justify-content: space-between;
     height: 116px;
     .block-header__img{
+        img{
+            width: 100%;
+        }
         padding: 39px 0 39px 80px;
+        
     }
      .block-header__ul li{
         display: inline-block;
