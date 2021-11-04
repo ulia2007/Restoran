@@ -667,10 +667,6 @@ a {
     font-size: 12px;
     line-height: 16px;
   }
-  .block-sect5 .block-sect5__flex {
-    display: flex;
-    row-gap: 5px;
-  }
   .block-sect5 .block-sect5__flex .block-sect5__flex-item:nth-child(2) p {
     font-size: 10px;
     line-height: 12px;
@@ -682,7 +678,6 @@ a {
   .block-sect5 .block-sect5__flex .block-sect5__flex-item:nth-child(2) a {
     font-size: 12px;
     line-height: 16px;
-    margin: 3% 0 4% 11%;
   }
   .block-sect5 .block-sect5__flex .block-sect5__flex-item:nth-child(3) .block-sect5__h6,
   .block-sect5 .block-sect5__flex .block-sect5__flex-item:nth-child(4) .block-sect5__h6 {
